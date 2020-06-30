@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba1A</string>
+    <string name="lista_de_frutas">Lista de Frutas</string>
+    <string name="crear_fruta">Crear Fruta</string>
+</resources>
